@@ -30,6 +30,11 @@ body
 	background-color: #D4D4D4;
 }
 
+p.lastupdate {
+	text-align: left;
+	font-size: 9px;
+}
+
 h1
 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
@@ -40,7 +45,7 @@ h1
 	text-align: center;
 	text-decoration: underline;
 }
-/*#039 #39728F*/
+
 
 sup
 {
